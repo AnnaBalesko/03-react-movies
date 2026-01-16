@@ -1,1 +1,1 @@
-import css from './MovieModal.module.css'
+// import css from './MovieModal.module.css'
